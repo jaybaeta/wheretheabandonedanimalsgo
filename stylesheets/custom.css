@@ -8,6 +8,6 @@ h3, .h3 {
 
 /* NAVBAR */
 
-.navbar-brand a {
+.navbar-brand > a > h3 {
 	color: #289892;
 }
