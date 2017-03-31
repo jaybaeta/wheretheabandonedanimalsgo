@@ -3,5 +3,11 @@ h3, .h3 {
 }
 
 .bg-primary {
-	  background-color: #289892;
+	background-color: #289892;
+}
+
+/* NAVBAR */
+
+.navbar-brand a {
+	color: #289892;
 }
