@@ -11,3 +11,7 @@ h3, .h3 {
 .navbar-brand > a > h3 {
 	color: #289892 !important;
 }
+
+a {
+	color: #289892 !important;
+}
