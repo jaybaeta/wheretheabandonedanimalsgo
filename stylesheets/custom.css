@@ -1,11 +1,3 @@
-h3, .h3 {
-	font-family: 'Spirax', cursive;
-}
-
-.bg-primary {
-	background-color: #289892;
-}
-
 /* NAVBAR */
 
 .navbar-brand > a > h3 {
@@ -14,4 +6,40 @@ h3, .h3 {
 
 a {
 	color: #289892 !important;
+}
+
+/* TYPOGRAPHY */
+
+h3, .h3 {
+	font-family: 'Spirax', cursive;
+}
+
+html {
+  font-family: 'Dosis', sans-serif;
+}
+
+body {
+  font-family: 'Dosis', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: 'Dosis', sans-serif;
+}
+
+.tooltip {
+	  font-family: 'Dosis', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.popover {
+	  font-family: 'Dosis', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* BACKGROUND */
+
+.bg-primary {
+	background-color: #289892;
 }
