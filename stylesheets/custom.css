@@ -43,3 +43,10 @@ textarea {
 .bg-primary {
 	background-color: #289892;
 }
+
+/* CARD */
+
+.card-img-top {
+	max-height: 200px;
+	object-fit: cover;
+}
